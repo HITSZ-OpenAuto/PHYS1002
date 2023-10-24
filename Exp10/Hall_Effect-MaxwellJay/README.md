@@ -9,6 +9,5 @@ $V_H$ 的值可以通过 AVERAGE 函数直接计算得出（故在 [Exp10-Hall_E
 
 然后运行 [Exp10-Hall_Effect.ipynb](./Exp10-Hall_Effect.ipynb)，即可得到实验所需结果。
 
-##
-> [!ATTENTION]
-> 实验程序可能存在单位换算的问题，如果有请在 Issues 中提出。
+> [!WARNING]
+> 请注意单位换算。
