@@ -1,0 +1,3 @@
+category: 必修
+grade: 第二学年秋季
+name: 大学物理实验IA
