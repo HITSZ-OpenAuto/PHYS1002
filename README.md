@@ -63,4 +63,4 @@
 
 ## Others
 
-关于大学物理实验 IB 的资料，有一个 LaTeX 模板仓库：[hitsz-physics-ib-rerports](https://github.com/LittleYe233/hitsz-physics-ib-reports)
+关于大学物理实验 IB 的资料，有一个 LaTeX 模板仓库：[hitsz-physics-ib-reports](https://github.com/LittleYe233/hitsz-physics-ib-reports)
