@@ -27,18 +27,18 @@
 
 | 编号 | 实验名称 | 文件夹链接 |
 | :--: | :--: | :--: |
-| 01 | 用示波器观测磁滞回线 | [Exp01](./Exp01) |
-| 02 | 拉伸法测杨氏弹性模量 | [Exp02](./Exp02) |
-| 03 | 液体黏度的测定 | [Exp03](./Exp03) |
-| 04 | 薄透镜焦距的测定 | [Exp04](./Exp04) |
-| 05 | 用惠斯通电桥测电阻 | [Exp05](./Exp05) |
-| 06 | DIY 实验——磁耦合谐振式无线电力传输实验研究 | [Exp06](./Exp06) |
-| 07 | 声速的测量 | [Exp07](./Exp07) |
-| 08 | 迈克尔逊干涉仪 | [Exp08](./Exp08) |
-| 09 | 电子电荷的测定——密立根油滴法 | [Exp09](./Exp09) |
-| 10 | 霍尔效应传感器和各向异性磁电阻传感器 | [Exp10](./Exp10) |
-| 11 | 太阳能电池的基本特性研究 | [Exp11](./Exp11) |
-| 12 | 液体表面张力系数测量 | [Exp12](./Exp12) |
+| 01 | 用示波器观测磁滞回线 | [Exp01](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp01) |
+| 02 | 拉伸法测杨氏弹性模量 | [Exp02](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp02) |
+| 03 | 液体黏度的测定 | [Exp03](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp03) |
+| 04 | 薄透镜焦距的测定 | [Exp04](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp04) |
+| 05 | 用惠斯通电桥测电阻 | [Exp05](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp05) |
+| 06 | DIY 实验——磁耦合谐振式无线电力传输实验研究 | [Exp06](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp06) |
+| 07 | 声速的测量 | [Exp07](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp07) |
+| 08 | 迈克尔逊干涉仪 | [Exp08](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp08) |
+| 09 | 电子电荷的测定——密立根油滴法 | [Exp09](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp09) |
+| 10 | 霍尔效应传感器和各向异性磁电阻传感器 | [Exp10](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp10) |
+| 11 | 太阳能电池的基本特性研究 | [Exp11](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp11) |
+| 12 | 液体表面张力系数测量 | [Exp12](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp12) |
 
 ## Contributing
 
