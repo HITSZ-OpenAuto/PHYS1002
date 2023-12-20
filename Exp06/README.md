@@ -4,6 +4,8 @@
 |------|---------|------------|
 | 4 | ⭐⭐ | ⭐⭐ |
 
+![磁耦合谐振式无线电力传输实验](https://github.com/HITSZ-OpenAuto/PHYS1002A/assets/107470012/0340d6d0-7270-4383-b481-27ba6b0cd319)
+
 ### 实验描述
 > by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
