@@ -9,5 +9,5 @@ $V_H$ 的值可以通过 [AVERAGE](https://support.microsoft.com/zh-cn/office/av
 
 然后运行 [Exp10-Hall_Effect.ipynb](./Exp10-Hall_Effect.ipynb)，即可得到实验所需结果。
 
-> [!WARNING]
+> [!NOTE]
 > 请注意单位换算。
