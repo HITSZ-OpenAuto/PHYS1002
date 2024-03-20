@@ -1,12 +1,29 @@
-# PHYS1002A - 大学物理实验IA
+# PHYS1002 - 大学物理实验
 
+{{< callout type="info" >}}
+  自 `2024.03.20` 开始，由于大物实验每年的不确定性，原 **大学物理实验IA** 与 **大学物理实验IB** 现合并成统一的 **大学物理实验** 页面。采用统一的命名方式，本学期不再采用的实验资料转移至 `archived` 文件夹。
+{{< /callout >}}
+
+## 大学物理实验IA
 ![Static Badge](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
 ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
+![Static Badge](https://img.shields.io/badge/学时-20-moccasin)
 ![Static Badge](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![Static Badge](https://img.shields.io/badge/%E6%AF%8F%E6%AC%A1%E5%AE%9E%E9%AA%8C%E5%BE%97%E5%88%86%E7%9A%84%E5%8A%A0%E6%9D%83%E5%92%8C-wheat)
 ![Static Badge](https://img.shields.io/badge/2023%20%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%95%A6-wheat)
+
+## 大学物理实验IB
+![Static Badge](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
+![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
+![Static Badge](https://img.shields.io/badge/学时-24-moccasin)
+![Static Badge](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
+
+![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![Static Badge](https://img.shields.io/badge/%E6%AF%8F%E6%AC%A1%E5%AE%9E%E9%AA%8C%E5%BE%97%E5%88%86%E7%9A%84%E5%8A%A0%E6%9D%83%E5%92%8C-wheat)
+![Static Badge](https://img.shields.io/badge/2023%20%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%95%A6-wheat)
+
 
 ## 新人须知
 
@@ -51,6 +68,20 @@
 |  10   |    霍尔效应传感器和各向异性磁电阻传感器    | [Exp10](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp10) | 4 |
 |  11   |          太阳能电池的基本特性研究          | [Exp11](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp11) | 2 |
 |  12   |            液体表面张力系数测量            | [Exp12](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp12) | 2 |
+|  13   |            自组显微镜与望远镜            | [Exp13](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp13) | 4 |
+|  14   |            分光计的调节及应用            | [Exp14](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp14) | 4 |
+|  15   |            光的等厚干涉现象与应用            | [Exp15](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp15) | 2 |
+|  16   |               准稳态法测不良导体的比热容和导热系数               | [Exp16](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp16) | 2 |
+|  17   |              全息技术实验（虚拟仿真项目）              | [Exp17](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp17) | 4 |
+|  18   |             RLC电路暂态特性的研究             | [Exp18](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp18) | 2 |
+|  19   |  双光栅检测微弱振动   | [Exp19](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp19) | 2 |
+|  20   |                 巨磁阻效应与应用                 | [Exp20](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp20) | 4 |
+|  21   |               弗兰克-赫兹实验               | [Exp21](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp21) | 2 |
+|  22   |        光电效应法测定普朗克常量        | [Exp22](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp22) | 2 |
+|  23   |    磁光效应及其在光通信中的应用    | [Exp23](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp23) | 2 |
+|  24   |          液晶电光效应及其应用          | [Exp24](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp24) | 4 |
+|  25   |            红外波的物理特性及其研究（虚拟仿真项目）            | [Exp25](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp25) | 2 |
+|  archived   |            被移除实验资料的归档            | [archived](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/archived) | * |
 
 ## 贡献
 
