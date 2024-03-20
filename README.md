@@ -7,7 +7,7 @@
 ## 大学物理实验A
 ![Static Badge](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
 ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
-![Static Badge](https://img.shields.io/badge/学时-20-moccasin)
+![Static Badge](https://img.shields.io/badge/实验学时-20-moccasin)
 ![Static Badge](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
@@ -17,7 +17,7 @@
 ## 大学物理实验B
 ![Static Badge](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
 ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
-![Static Badge](https://img.shields.io/badge/学时-24-moccasin)
+![Static Badge](https://img.shields.io/badge/实验学时-24-moccasin)
 ![Static Badge](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
