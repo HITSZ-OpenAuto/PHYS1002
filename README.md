@@ -87,12 +87,12 @@
 |  25   |            **红外波的物理特性及其研究（虚拟仿真项目）**            | [Exp25](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp25) | 2 |
 |  archived   |            被移除实验资料的归档            | [archived](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/archived) | * |
 
-### 个人课程仓库汇总
+### 个人实验仓库收集
 
-这里是集中收集的个人大物实验项目仓库汇总，已得到仓库所有者授权的引用许可：
+> 已得到仓库所有者授权的引用许可。
 
-- 感谢 [@Doctxing](https://github.com/Doctxing) 同学制作的 tex 模板及数据处理程序：[phytex](https://github.com/Doctxing/phytex)
-
+- [LittleYe233/hitsz-physics-ib-reports](https://github.com/LittleYe233/hitsz-physics-ib-reports)
+- [Doctxing/phytex](https://github.com/Doctxing/phytex)：[@Doctxing](https://github.com/Doctxing) 同学制作的 $\LaTeX$ 模板及数据处理程序
 
 ## 贡献
 
@@ -111,6 +111,3 @@
 同时，非常欢迎大佬能为这些物理实验制作 $LaTeX$ 或 typst 等模版，
 这样对于熟悉这些排版系统的人来说会更加方便。
 
-## Others
-
-关于大学物理实验的资料，有一个 LaTeX 模板仓库：[hitsz-physics-ib-reports](https://github.com/LittleYe233/hitsz-physics-ib-reports)
