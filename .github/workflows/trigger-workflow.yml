@@ -1,0 +1,20 @@
+name: Trigger Workflow in hoa.moe
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger workflow in hoa.moe
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            https://api.github.com/repos/HITSZ-OpenAuto/hoa.moe/actions/workflows/course.yaml/dispatches \
+            -d '{"ref":"main"}'
