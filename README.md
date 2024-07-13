@@ -60,9 +60,9 @@
 
 ### 目录
 
-本学期开设的实验已标粗显示。
+本学期开设的实验已标粗显示。尽管有资料下载界面，下面仍列出 GitHub 仓库名，其原因是，用于画图的部分代码文件及其操作说明（README）文件可能需要进入 GitHub 仓库才能看到，希望大家学会访问 GitHub。可以使用魔法，也可以参考教程：[新人指南：不使用第三方工具访问 GitHub](https://hoa.moe/blog/access-github/)。
 
-| 编号  | 实验名称 | 文件夹链接 | 学时 |
+| 编号  | 实验名称 | 文件夹链接<br>(GitHub仓库) | 学时 |
 | :---: | :-----: | :-------: | :--: |
 |  01   |            用示波器观测磁滞回线            | [Exp01](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp01) | 2 |
 |  02   |            **拉伸法测杨氏弹性模量**            | [Exp02](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp02) | 2 |
