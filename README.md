@@ -29,11 +29,11 @@
 
 物理实验需要开学后在单独的选课平台上，从大约十多个实验中，选足课程要求学时的实验完成。这些实验中大多是 2 学时（1 节大课），少数为 4 学时（2 节大课）。
 
-2024 年春季学时要求：
+2024 年春季学期要求可以作为参考：
 - 大物实验A 共 12 个实验，要求完成 $\ge 20$ 学时实验课时
 - 大物实验B 共 13 个实验，要求完成 $\ge 24$ 学时实验课时
 
-每一个实验在该学期内会开设很多次，需要学生自己选择上哪一天的，并且不与其他课冲突（由于不是在本研教学平台上选课，选好的实验并不会显示在你的教务平台课程表中）。你可以将实验选在学期初避免占用期末周，也可以将实验选在学期后期，这样时间 ~~（或许？）~~ 更充足。
+每一个实验在该学期内会设置很多课次，需要学生自己选择上哪一天的；而由于选课平台独立于本研平台，***无法查看实验与正常课程的冲突情况，需手动核对冲突*** ~~不可否认，这能给予我们极大操作空间~~。你可以将实验选在学期初避免占用期末周，也可以将实验选在学期后期，这样时间 ~~（或许？）~~ 更充足。
 
 每次实验前要完成实验预习（要求手写）并在课上交由老师检查，实验做完后需要在规定日期前提交实验报告（2023 年是实验后两周内），报告使用 pdf 格式（过去只能交纸质，甚至**手写**）。
 
@@ -60,36 +60,39 @@
 
 ### 目录
 
-本学期开设的实验已标粗显示。尽管有资料下载界面，下面仍列出 GitHub 仓库名，其原因是，用于画图的部分代码文件及其操作说明（README）文件可能需要进入 GitHub 仓库才能看到，希望大家学会访问 GitHub。可以使用魔法，也可以参考教程：[新人指南：不使用第三方工具访问 GitHub](https://hoa.moe/blog/access-github/)。
+考虑到开设的实验列表每年都有变化，因此以下仓库是对历史开设实验的记录，不再区分「本学年开设的实验」，可以使用浏览器查找功能寻找需要的实验。***由于实验列表及学分有可能变化，还望后来者及时补充。***
+
+尽管有资料下载界面，下面仍列出 GitHub 仓库名，其原因是，用于画图的部分代码文件及其操作说明（README）文件可能需要进入 GitHub 仓库才能看到，希望大家学会访问 GitHub。可以使用魔法，也可以参考教程：[新人指南：不使用第三方工具访问 GitHub](https://hoa.moe/blog/access-github/)。
 
 | 编号  | 实验名称 | 文件夹链接<br>(GitHub仓库) | 学时 |
 | :---: | :-----: | :-------: | :--: |
 |  01   |            用示波器观测磁滞回线            | [Exp01](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp01) | 2 |
-|  02   |            **拉伸法测杨氏弹性模量**            | [Exp02](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp02) | 2 |
+|  02   |            拉伸法测杨氏弹性模量            | [Exp02](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp02) | 2 |
 |  03   |               液体黏度的测定               | [Exp03](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp03) | 2 |
 |  04   |              薄透镜焦距的测定              | [Exp04](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp04) | 2 |
 |  05   |             用惠斯通电桥测电阻             | [Exp05](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp05) | 2 |
-|  06   |      **磁耦合谐振式无线电力传输实验研究**    | [Exp06](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp06) | 4 |
-|  07   |                 **空气中声速的测量**                 | [Exp07](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp07) | 2 |
-|  08   |               **迈克尔逊干涉仪**               | [Exp08](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp08) | 4 |
-|  09   |        **电子电荷的测定——密立根油滴法**        | [Exp09](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp09) | 4 |
-|  10   |    **霍尔效应传感器和各向异性磁电阻传感器**    | [Exp10](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp10) | 4 |
+|  06   |      磁耦合谐振式无线电力传输实验研究    | [Exp06](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp06) | 4 |
+|  07   |                 空气中声速的测量                 | [Exp07](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp07) | 2 |
+|  08   |               迈克尔逊干涉仪               | [Exp08](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp08) | 4 |
+|  09   |        电子电荷的测定——密立根油滴法        | [Exp09](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp09) | 4 |
+|  10   |    霍尔效应传感器和各向异性磁电阻传感器    | [Exp10](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp10) | 4 |
 |  11   |          太阳能电池的基本特性研究          | [Exp11](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp11) | 2 |
-|  12   |            **液体表面张力系数测量**            | [Exp12](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp12) | 2 |
-|  13   |            **自组显微镜与望远镜**            | [Exp13](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp13) | 4 |
-|  14   |            **分光计的调节及应用**            | [Exp14](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp14) | 4 |
-|  15   |            **光的等厚干涉现象与应用**            | [Exp15](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp15) | 2 |
-|  16   |               **准稳态法测不良导体的比热容和导热系数**               | [Exp16](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp16) | 2 |
-|  17   |              **全息技术实验（虚拟仿真项目）**              | [Exp17](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp17) | 4 |
-|  18   |             **RLC电路暂态特性的研究**             | [Exp18](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp18) | 2 |
-|  19   | **双光栅检测微弱振动** | [Exp19](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp19) | 2 |
-|  20   |                 **巨磁阻效应与应用**                 | [Exp20](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp20) | 4 |
-|  21   |               **弗兰克-赫兹实验**               | [Exp21](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp21) | 2 |
-|  22   |        **光电效应法测定普朗克常量**        | [Exp22](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp22) | 2 |
-|  23   |    **磁光效应及其在光通信中的应用**    | [Exp23](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp23) | 2 |
-|  24   |          **液晶电光效应及其应用**          | [Exp24](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp24) | 4 |
-|  25   |            **红外波的物理特性及其研究（虚拟仿真项目）**            | [Exp25](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp25) | 2 |
-|  archived   |            被移除实验资料的归档            | [archived](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/archived) | * |
+|  12   |            液体表面张力系数测量            | [Exp12](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp12) | 2 |
+|  13   |            自组显微镜与望远镜            | [Exp13](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp13) | 4 |
+|  14   |            分光计的调节及应用            | [Exp14](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp14) | 4 |
+|  15   |            光的等厚干涉现象与应用            | [Exp15](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp15) | 2 |
+|  16   |               准稳态法测不良导体的比热容和导热系数               | [Exp16](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp16) | 2 |
+|  17   |              全息技术实验（虚拟仿真项目）              | [Exp17](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp17) | 4 |
+|  18   |             RLC电路暂态特性的研究             | [Exp18](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp18) | 2 |
+|  19   | 双光栅检测微弱振动 | [Exp19](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp19) | 2 |
+|  20   |                 巨磁阻效应与应用                 | [Exp20](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp20) | 2 |
+|  21   |               弗兰克-赫兹实验               | [Exp21](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp21) | 2 |
+|  22   |        光电效应法测定普朗克常量        | [Exp22](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp22) | 2 |
+|  23   |    磁光效应及其在光通信中的应用    | [Exp23](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp23) | 2 |
+|  24   |          液晶电光效应及其应用          | [Exp24](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp24) | 4 |
+|  25   |            红外波的物理特性及其研究（虚拟仿真项目）            | [Exp25](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp25) | 2 |
+|  26   |            光强调制法测光速（虚拟仿真实验）            | [Exp26](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/Exp26) | 2 |
+|  archived   |            过于陈旧不太可能开展的实验            | [archived](https://github.com/HITSZ-OpenAuto/PHYS1002A/tree/main/archived) | * |
 
 ### 个人实验仓库收集
 
