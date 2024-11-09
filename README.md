@@ -101,6 +101,7 @@
 - [LittleYe233/hitsz-physics-ib-reports](https://github.com/LittleYe233/hitsz-physics-ib-reports)
 - [Doctxing/phytex](https://github.com/Doctxing/phytex)：[@Doctxing](https://github.com/Doctxing) 同学制作的 $\LaTeX$ 模板及数据处理程序
 - [longlin10086/HITSZ-PhTyp](https://github.com/longlin10086/HITSZ-PhTyp): 一个大物实验报告的 Typst 模板
+- [Zjl37/phys1006-workspace](https://github.com/Zjl37/phys1006-workspace): 动量子的大物实验工作区，含有实验报告的 Typst 模板和一些数据处理程序
 
 ## 贡献
 
