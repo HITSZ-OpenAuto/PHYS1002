@@ -5,17 +5,25 @@
 | 2 | ⭐⭐ | ⭐⭐⭐ |
 
 ## 实验描述
-> by [@longlin li](https://github.com/longlin10086), 2023.10
 
 本实验整体难度不大，老师会手把手带你连电路，操作示波器。只要认真听了老师讲解具体操作就能在一个小时内完成数据的记录。
 
-## 关于实验报告
+> 文 / [longlin li](https://github.com/longlin10086), 2023.10
 
-> by [@longlin li](https://github.com/longlin10086), 2023.10
+电路跟随老师连接完成后调出对应的波形后无需多次重复调整，只需使用光标定位读取数据即可。
+
+> 文 / [Gaster](https://github.com/WDGaster703/)，2024.10
+## 关于实验报告
 
 实验报告的难点主要是图像的绘制。在此给出一个简单的 python 程序供大家绘图（注意数组中的数据需要按顺时针/逆时针填写）。
 
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.10
+> 文 / [longlin li](https://github.com/longlin10086), 2023.10
 
 实验报告的写作量偏大，不过还算好对付。
 没有不确定度的计算。
+
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.10
+
+实验报告主要写作部分是四条曲线的绘制，使用Python、Excel等绘图软件就能较为轻松绘制出图像。
+
+> 文 / [Gaster](https://github.com/WDGaster703/)，2024.10

@@ -1,21 +1,31 @@
-# Exp10：霍尔效应传感器和各向异性磁电阻传感器
+# Exp10：霍尔效应及其应用
 
 | 学时 | 实验难度 | 实验报告难度 |
 |------|---------|------------|
 | 4 | ⭐⭐ | ⭐⭐⭐ |
 
-![霍尔效应与各向异性磁电阻实验装置](https://github.com/HITSZ-Auto/Physics_LabIA/assets/107470012/9b64f33f-f608-4d8e-bade-12d7946ae8be)
+![霍尔效应及其应用装置](https://github.com/HITSZ-Auto/Physics_LabIA/assets/107470012/9b64f33f-f608-4d8e-bade-12d7946ae8be)
 
 ## 实验描述
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.10
 
 本实验有 4 个课时，要记录的数据很多（不管怎样下课前总能做完的）。
 
 令我印象深刻的是实验仪器的精度很不错，只要操作不出大问题，得到的数据都能画出很漂亮的图。
 
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.10
+
+实验总共有五组实验要完成，前三组实验测量霍尔元件特性时需要改变两次电流测量四次数据取平均得到一个电压，因此实验全程就在换向器上拨上拨下，难度低但是废手，耗时较长。
+
+> 文 / [Gaster](https://github.com/WDGaster703/), 2024.3
+
 ## 关于实验报告
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.10
 
 实验报告没有不确定度计算，但是要画若干幅图，以及各种单位换算，工作量还是比较大的。
 
 实验数据需要使用到最小二乘法进行线性回归，所以利用好统计工具吧！
+
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.10
+
+五组数据要分别绘制图像并计算数据，注意单位换算（Gs 和 mT），合理利用计算机绘图工具。
+
+> 文 / [Gaster](https://github.com/WDGaster703/), 2024.3

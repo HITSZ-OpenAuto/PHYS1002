@@ -5,11 +5,13 @@
 | 2 | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
 ## 实验描述
-> by [@longlin li](https://github.com/longlin10086), 2023.10
 
 本实验需要观察记录小钢珠的直径，比较费时费眼。由于实验室仪器大部分已损坏，所以本实验会预先将某几台能正常使用的机器打开设定好相应温度，让大家共用。（这时就可以共用实验数据了
 
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
+
 ## 关于实验报告
-> by [@longlin li](https://github.com/longlin10086), 2023.10
 
 本实验的报告非常非常麻烦，需要计算五组不确定度，光是一组计算都要耗费大量时间，非常不值得。
+
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12

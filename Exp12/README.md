@@ -5,7 +5,6 @@
 | 2 | ⭐⭐ | ⭐⭐⭐⭐ |
 
 ## 实验描述
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.11
 
 实验过程不算困难，基本上都能按时完成。
 
@@ -13,7 +12,10 @@
   $K$ 的理想值是大约 $9\times 10^{-3} N/mV$，注意数量级和单位换算。
 - 如果你在做实验的时候发现水加热得很慢或者一直加热了但水温不变，可能是因为温度探头没有被水完全浸没，这可以通过降低物块升高液面解决。
 
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.11
+
 ## 关于实验报告
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.11
 
 报告里要计算不确定度，不是很友好的样子。
+
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.11

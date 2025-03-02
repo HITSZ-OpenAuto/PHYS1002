@@ -8,3 +8,9 @@
 
 无脑调旋钮 + 示波器读数即可。
 > 文 / [IcyDesert](https://github.com/IcyDesert), 2024.10
+
+## 实验报告
+
+数据处理的主要工作量在二阶电路上，只需绘制一张图像即可。
+
+> 文 / [Gaster](https://github.com/WDGaster703/), 2024.4
