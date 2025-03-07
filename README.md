@@ -71,7 +71,7 @@
 
 每个实验文件夹下的 `README.md` 文件中都有对应实验的一些描述，你可以参考这些评价来选择你的实验。
 
-> 文 / [Maxwell Jay](https://github.com/MaxwellJay256) and [Longlin Li](https://github.com/longlin10086), 2023.12 update: 2024.4
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256) & [Longlin Li](https://github.com/longlin10086), 2023.12 更新于 2024.4
 
 ## 关于本仓库
 
