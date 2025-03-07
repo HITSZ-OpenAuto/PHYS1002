@@ -52,7 +52,7 @@
 > 
 > 我们绝不支持照抄仓库内的实验数据，本仓库的正确使用方法应该是合理使用仓库中的画图工具和计算工具更好的完成实验。
 
-> 文 / [Gaster](https://github.com/WDGaster703/),2025.3 add more information
+> 文 / [Gaster](https://github.com/WDGaster703/),2025.3
 
 ### 选什么实验呢？
 
