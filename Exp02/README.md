@@ -5,17 +5,27 @@
 | 2 | ⭐⭐ | ⭐⭐⭐ |
 
 ## 实验描述
-> by [@longlin li](https://github.com/longlin10086), 2023.10
 
 据本人观察几乎所有人都能按时完成该实验，故整体难度不算太大。实验前最好先预习了解一下具体要进行哪些操作，以免课上手忙脚乱。本实验唯一可能费时的是望远镜位置的调整。
 
+> 文 / [longlin li](https://github.com/longlin10086), 2023.10
+
+光杠杆法带来的极大的测量便利性，仅需施力螺母来回旋转各一轮并读数即可，注意标尺的起始刻度不要太大，否则后期可能超出量程。
+
+> 文 / [Gaster](https://github.com/WDGaster703/)，2024.4
+
 ## 关于实验报告
-> by [@longlin li](https://github.com/longlin10086), 2023.10
 
 本实验的实验报告难在不确定度的数据处理上，如果不想在此处花费时间的话可以直接~~chao~~（借鉴）前人的实验报告。本实验算是老牌实验，非常建议选择。
 
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
+> 文 / [longlin li](https://github.com/longlin10086), 2023.10
 
 实验报告要计算一次不确定度，因此稍显麻烦。
 
 另外，我的那份实验报告原始数据记录的**小数点位数是错误的**，大家千万别抄。
+
+> by [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
+
+本实验的数据处理较为繁琐，要求推导不确定度的公式并有详细的计算过程，有些麻烦。
+
+> 文 / [Gaster](https://github.com/WDGaster703/)，2024.4

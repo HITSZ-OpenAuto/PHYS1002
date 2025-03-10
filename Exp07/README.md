@@ -5,11 +5,13 @@
 | 2 | ⭐ | ⭐⭐ |
 
 ## 实验描述
-> by [@longlin li](https://github.com/longlin10086), 2023.10
 
 非常简单，只用测量读数即可，只要上课看了老师操作就会做。
 
+> 文 / [longlin li](https://github.com/longlin10086), 2023.10
+
 ## 关于实验报告
-> by [@longlin li](https://github.com/longlin10086), 2023.10
 
 本实验的计算不算复杂，写的字也不算多，总之就是非常水。**（非常建议选择）**
+
+> 文 / [longlin li](https://github.com/longlin10086), 2023.10

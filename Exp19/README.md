@@ -10,10 +10,10 @@
 
 因此需要掌握示波器的用法，尤其是缩放功能（按示波器 `zoom` 按钮，再调节旋钮即可缩放）——如果没有缩放，所有的波峰挤在一起，会让读数异常困难。
 
-> 文 /[@IcyDesert](https://github.com/IcyDesert), 2024.9
+> 文 /[IcyDesert](https://github.com/IcyDesert), 2024.9
 
 ## 关于实验报告
 
 数据处理只需要做个除法，最终的报告只用画个图，含金量不必多说。
 
-> 文 /[@IcyDesert](https://github.com/IcyDesert), 2024.9
+> 文 /[IcyDesert](https://github.com/IcyDesert), 2024.9

@@ -2,10 +2,9 @@
 
 | 学时 | 实验难度 | 实验报告难度 |
 |------|---------|------------|
-| 2 | ⭐⭐ | ⭐ |
+| 2 | ⭐ | ⭐ |
 
 ## 实验描述
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
 很简单的实验，高中的时候其实就了解过原理了。
 
@@ -14,13 +13,18 @@
 
 我当时从 $N=0.01$ 直接开始实验，将灵敏度调得相当高，结果到 $N=100$ 时发现即使 $\Delta R = 0.1 \Omega$，电流计也会满偏，于是只能降低灵敏度重新进行全部的测量。
 
----
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
 注意，原理图有两个开关，实际电路中也有，但不是拉杆的形式，而是按钮：总开关叫 B，检流计支路的叫 G，在实验器材面板下侧；务必记得先将 B 按下合闸！否则电路就是断路，无论如何调整都没有实验现象。
 
-> 文 /[@IcyDesert](https://github.com/IcyDesert), 2024.9
+> 文 /[IcyDesert](https://github.com/IcyDesert), 2024.9
+
+只需要注意[Maxwell Jay](https://github.com/MaxwellJay256)所说的测定 N 时的灵敏度问题，本实验几乎没有任何难度，并且数据量也很小。
+
+> 文 / [Gaster](https://github.com/WDGaster703/)，2024.9
 
 ## 关于实验报告
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
 实验报告最容易的一集，既不需要绘图也不需要计算不确定度。
+
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12

@@ -2,20 +2,26 @@
 
 | 学时 | 实验难度 | 实验报告难度 |
 |------|---------|------------|
-| 4 | ⭐⭐ | ⭐⭐ |
+| 4 | ⭐⭐⭐ | ⭐⭐ |
 
 ![磁耦合谐振式无线电力传输实验](https://github.com/HITSZ-OpenAuto/PHYS1002A/assets/107470012/0340d6d0-7270-4383-b481-27ba6b0cd319)
 
 ### 实验描述
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
 个人认为是这门课所有物理实验中最有趣的一个。
 实验除了研究无线电力传输的频率特性、距离特性以外，还会让大家动手焊接一对无线电力传输线圈，实验结束后还可以自己带回家。
 
 实验数据记录中需要计算传输装置的理论共振频率，因此建议大家带上科学计算器。
 
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
+
+实验数据要求不多，而且测量简单。唯一的难点可能是完全没有焊接经验的同学们要自己焊接一对无线电力传输线圈。
+
+> 文 / [Gaster](https://github.com/WDGaster703/)，2024.5
+
 ### 关于实验报告
-> by [@Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
 
 报告要求绘图，无不确定度计算。
 绘图有了计算机程序就很容易了。
+
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.12
