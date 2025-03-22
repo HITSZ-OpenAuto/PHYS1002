@@ -17,7 +17,6 @@ int main() {
     long double Frequency[3]={0,0,0};
     long double L[3][10]={0};
     TimeInterval L4[10];
-    char cache[10]={0};
     for(int i=0;i<3;i++){
         fscanf(datap,"%lf",TemperatureCelcius+i);
         fscanf(datap,"%Lf",Frequency+i);
@@ -47,7 +46,7 @@ int main() {
     }
     long double time_interval_velocity[9]={0};
     for(int j=0;j<9;j++){
-        time_interval_velocity[j] = 100*(L4[j].distance-L4[j+1].distance)/(L4[j].time-L4[j+1].time);
+        time_interval_velocity[j] = 1000*(L4[j].distance-L4[j+1].distance)/(L4[j].time-L4[j+1].time);
         velocity[3] = velocity[3] + time_interval_velocity[j];
     }
     velocity[3] = velocity[3]/9;
@@ -65,7 +64,8 @@ int main() {
     fprintf(resultp,"波形移动法\n");
     fprintf(resultp,"波长%Lf mm,波速%Lf m/s,理论波速%Lf m/s,相对误差%lf\n",wave_length[2],velocity[2],theorem_velocity[2],delta[2]);
     fprintf(resultp,"时差法\n");
-    fprintf(resultp,"波速%Lf m/s,理论波速%Lf m/s,相对误差%lf\n",velocity[0],theorem_velocity[0],delta[0]);
+    fprintf(resultp,"波速%Lf m/s,理论波速%Lf m/s,相对误差%lf\n",velocity[3],theorem_velocity[3],delta[0]);
+    fclose(resultp);
     return 0;
 }
 //计算理论声速，温度摄氏度，速度m/s
