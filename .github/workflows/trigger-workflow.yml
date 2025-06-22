@@ -18,5 +18,5 @@ jobs:
           curl -X POST \
             -H "Accept: application/vnd.github.v3+json" \
             -H "Authorization: token $GITHUB_TOKEN" \
-            https://api.github.com/repos/HITSZ-OpenAuto/hoa-moe/actions/workflows/course-single.yaml/dispatches \
+            https://api.github.com/repos/HITSZ-OpenAuto/hoa-moe/actions/workflows/course.yaml/dispatches \
             -d '{"ref":"main","inputs": {"repo_name": "'"${REPO_NAME}"'"}}'
