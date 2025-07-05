@@ -1,22 +1,78 @@
-name: Trigger Workflow in hoa-moe
+name: Update Worktree and Trigger Workflow
 
 on:
   push:
-    branches:
-      - main
+    branches: [ "*" ]
+
+  pull_request:
+    branches: [ "main" ]
+
+  schedule:
+    - cron: '0 0 * * *'
+
+  workflow_dispatch:
 
 jobs:
   trigger:
     runs-on: ubuntu-latest
+    permissions: write-all
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Download and run collect_worktree_info.py
+        run: |
+          # Download the script
+          curl -o collect_worktree_info.py             https://raw.githubusercontent.com/HITSZ-OpenAuto/repos-management/main/scripts/collect_worktree_info.py
+          
+          # Make it executable and run it
+          chmod +x collect_worktree_info.py
+          python3 collect_worktree_info.py
+          
+          # Clean up the downloaded script
+          rm collect_worktree_info.py
+      
+      - name: Commit worktree info changes
+        run: |
+          # Configure git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          
+          # Get the current branch name
+          BRANCH_NAME="${{ github.head_ref || github.ref_name }}"
+          echo "Current branch: $BRANCH_NAME"
+          
+          # Check if we're in detached HEAD and switch to the current branch
+          if git symbolic-ref -q HEAD >/dev/null; then
+            echo "Already on a branch"
+          else
+            echo "In detached HEAD, switching to branch: $BRANCH_NAME"
+            git checkout "$BRANCH_NAME"
+          fi
+          
+          # Add changes if any exist
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .hoa/worktree.json
+            git commit -m "Update worktree [skip ci]"
+            git push origin "$BRANCH_NAME"
+            echo "Worktree updated and committed to $BRANCH_NAME"
+          else
+            echo "No changes to commit"
+          fi
+      
       - name: Trigger workflow in hoa-moe
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           REPO_NAME=$(echo ${{ github.repository }} | cut -d'/' -f2)
           echo ${REPO_NAME}
-          curl -X POST \
-            -H "Accept: application/vnd.github.v3+json" \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            https://api.github.com/repos/HITSZ-OpenAuto/hoa-moe/actions/workflows/course.yaml/dispatches \
-            -d '{"ref":"main","inputs": {"repo_name": "'"${REPO_NAME}"'"}}'
+          curl -X POST             -H "Accept: application/vnd.github.v3+json"             -H "Authorization: token $GITHUB_TOKEN"             https://api.github.com/repos/HITSZ-OpenAuto/hoa-moe/actions/workflows/course.yaml/dispatches             -d '{"ref":"main","inputs": {"repo_name": "'"'${REPO_NAME}'"'"}}'
