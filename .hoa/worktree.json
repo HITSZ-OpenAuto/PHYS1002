@@ -1,8 +1,8 @@
 {
   ".github/workflows/trigger-workflow.yml": {
-    "size": 2582,
-    "time": 1751813241,
-    "hash": "57c96aaeac7948ca6efea7f0daa14486d9ccc776"
+    "size": 2591,
+    "time": 1751815290,
+    "hash": "b20ccc834f9e6b5103074e1640f7a4f34ae4721c"
   },
   ".gitignore": {
     "size": 3113,
@@ -11,8 +11,8 @@
   },
   ".hoa/worktree.json": {
     "size": 34292,
-    "time": 1751769759,
-    "hash": "7b886911b8ca2e211e351d112572fcdae09872f5"
+    "time": 1751813318,
+    "hash": "36c9bb3acf2fec6d3eb34b777f09de1690c6da4e"
   },
   "Exp01/README.md": {
     "size": 1202,
@@ -83,6 +83,11 @@
     "size": 1431,
     "time": 1741594978,
     "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp02/拉伸法测杨氏弹性模量 (24级 cecilia).pdf": {
+    "size": 612816,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
   },
   "Exp02/拉伸法测杨氏弹性模量 (24级 kajimi16).pdf": {
     "size": 4736840,
@@ -299,6 +304,11 @@
     "time": 1741594978,
     "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
   },
+  "Exp06/磁耦合共振·式无线电力传输 (24级 cecilia).pdf": {
+    "size": 373958,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
   "Exp06/磁耦合共振式无线电力传输实验(22级 Maxwell Jay).pdf": {
     "size": 5790675,
     "time": 1703037815,
@@ -388,6 +398,11 @@
     "size": 4364538,
     "time": 1736784205,
     "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp07/空气中声速的测量 (24级 cecilia).pdf": {
+    "size": 686007,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
   },
   "Exp07/空气中声速的测量(20级 LiuYuming).pdf": {
     "size": 12746145,
@@ -479,6 +494,11 @@
     "time": 1696322379,
     "hash": "890f32e6985a5023f0daeccf59c0aedffc43b42a"
   },
+  "Exp09/电子电荷的测定-密立根油滴法 (24级 cecilia).pdf": {
+    "size": 769650,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
   "Exp09/电子电荷的测定——密立根油滴法(22级 paipoex).ipynb": {
     "size": 4187,
     "time": 1741594978,
@@ -538,6 +558,11 @@
     "size": 11562297,
     "time": 1696322343,
     "hash": "cb8937e93ecacd412e3a55a720ec398ed4de4fbd"
+  },
+  "Exp10/霍尔效应及其应用 (24级 cecilia).pdf": {
+    "size": 941008,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
   },
   "Exp10/霍尔效应及其应用(23级 zhuqi_000).pdf": {
     "size": 407778,
@@ -728,6 +753,11 @@
     "size": 4841637,
     "time": 1751078071,
     "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp18/RLC暂态电路特性的研究 (24级 cecilia).pdf": {
+    "size": 347864,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
   },
   "Exp18/RLC电路暂态特性的研究(23级 zhuqi_000).pdf": {
     "size": 384667,
@@ -1014,6 +1044,11 @@
     "time": 1742705313,
     "hash": "e318c791ee4a37b6aa7c12614b27914817b0b262"
   },
+  "Exp28/碰撞打靶实验 (24级 cecilia).pdf": {
+    "size": 1009842,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
   "Exp28/碰撞打靶实验 (24级 kajimi16).pdf": {
     "size": 5518819,
     "time": 1751078071,
@@ -1033,6 +1068,11 @@
     "size": 5553213,
     "time": 1751078071,
     "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp29/示波器实验仿真 (24级 cecilia).pdf": {
+    "size": 352645,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
   },
   "Exp29/示波器实验（23级 Suiii）.pdf": {
     "size": 1998881,
