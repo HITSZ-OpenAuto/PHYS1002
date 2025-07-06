@@ -19,6 +19,9 @@
 
 > 文 / [Gaster](https://github.com/WDGaster703/)，2024.5
 
+焊接出来**能用**的线圈还是非常具有难度的，笔者所在组一度有人重焊四次，不过实验非常有趣，小心别烫到手
+> 文 / [cecilia](https://github.com/mircecilia), 2025.7
+
 ### 关于实验报告
 
 报告要求绘图，无不确定度计算。

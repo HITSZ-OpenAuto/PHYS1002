@@ -14,6 +14,9 @@
 
 > 文 / [Gaster](https://github.com/WDGaster703/)，2024.4
 
+好实验，非 ban 必选
+> 文 / [cecilia](https://github.com/mircecilia), 2025.7
+
 ## 关于实验报告
 
 本实验的实验报告难在不确定度的数据处理上，如果不想在此处花费时间的话可以直接~~chao~~（借鉴）前人的实验报告。本实验算是老牌实验，非常建议选择。

@@ -6,6 +6,8 @@
 
 ## 实验内容
 
+实验原理跟操作都非常简单，就是数据可能很难做的好看
+> 文 / [cecilia](https://github.com/mircecilia), 2025.7
 
 ## 实验报告
 
