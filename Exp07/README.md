@@ -10,6 +10,9 @@
 
 > 文 / [longlin li](https://github.com/longlin10086), 2023.10
 
+非常友善的实验，上课直接去听就能完成
+> 文 / [cecilia](https://github.com/mircecilia), 2025.7
+
 ## 关于实验报告
 
 本实验的计算不算复杂，写的字也不算多，总之就是非常水。**（非常建议选择）**
