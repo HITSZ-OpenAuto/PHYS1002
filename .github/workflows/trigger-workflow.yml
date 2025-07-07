@@ -2,9 +2,6 @@ name: Update Worktree and Trigger Workflow
 
 on:
   push:
-    branches: [ "*" ]
-
-  pull_request:
     branches: [ "main" ]
 
   schedule:
@@ -47,24 +44,12 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           
-          # Get the current branch name
-          BRANCH_NAME="${{ github.head_ref || github.ref_name }}"
-          echo "Current branch: $BRANCH_NAME"
-          
-          # Check if we're in detached HEAD and switch to the current branch
-          if git symbolic-ref -q HEAD >/dev/null; then
-            echo "Already on a branch"
-          else
-            echo "In detached HEAD, switching to branch: $BRANCH_NAME"
-            git checkout "$BRANCH_NAME"
-          fi
-          
           # Add changes if any exist
           if [ -n "$(git status --porcelain)" ]; then
             git add .hoa/worktree.json
             git commit -m "Update worktree [skip ci]"
-            git push origin "$BRANCH_NAME"
-            echo "Worktree updated and committed to $BRANCH_NAME"
+            git push origin main
+            echo "Worktree updated and committed to main branch"
           else
             echo "No changes to commit"
           fi
