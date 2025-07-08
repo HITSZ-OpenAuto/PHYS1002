@@ -26,33 +26,14 @@ jobs:
         with:
           python-version: '3.12'
       
-      - name: Download and run collect_worktree_info.py
+      - name: Download and run generate_worktree_info.py
         run: |
           # Download the script
-          curl -o collect_worktree_info.py             https://raw.githubusercontent.com/HITSZ-OpenAuto/repos-management/main/scripts/collect_worktree_info.py
+          curl -o /tmp/generate_worktree_info.py             https://raw.githubusercontent.com/HITSZ-OpenAuto/repos-management/main/scripts/generate_worktree_info.py
           
           # Make it executable and run it
-          chmod +x collect_worktree_info.py
-          python3 collect_worktree_info.py
-          
-          # Clean up the downloaded script
-          rm collect_worktree_info.py
-      
-      - name: Commit worktree info changes
-        run: |
-          # Configure git
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Actions"
-          
-          # Add changes if any exist
-          if [ -n "$(git status --porcelain)" ]; then
-            git add .hoa/worktree.json
-            git commit -m "Update worktree [skip ci]"
-            git push origin main
-            echo "Worktree updated and committed to main branch"
-          else
-            echo "No changes to commit"
-          fi
+          chmod +x /tmp/generate_worktree_info.py
+          python3 /tmp/generate_worktree_info.py
 
       - name: Trigger workflow in hoa-moe
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
