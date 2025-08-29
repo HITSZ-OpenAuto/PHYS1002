@@ -1,47 +1,22 @@
-name: Update Worktree and Trigger Workflow
+name: Call Worktree Update
 
 on:
   push:
     branches: [ "main" ]
-
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
-  workflow_dispatch:
-
 jobs:
-  trigger:
-    runs-on: ubuntu-latest
-    permissions: write-all
+  call_reusable_workflow:
+    uses: HITSZ-OpenAuto/repos-management/.github/workflows/reusable_worktree_generate.yml@main
+    permissions:
+      contents: write
+      pull-requests: write
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-      
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      
-      - name: Download and run generate_worktree_info.py
-        run: |
-          # Download the script
-          curl -o /tmp/generate_worktree_info.py             https://raw.githubusercontent.com/HITSZ-OpenAuto/repos-management/main/scripts/generate_worktree_info.py
-          
-          # Make it executable and run it
-          chmod +x /tmp/generate_worktree_info.py
-          python3 /tmp/generate_worktree_info.py
+    with:
+      # trigger_page_build == true only when pushing to main branch
+      trigger_page_build: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
 
-      - name: Trigger workflow in hoa-moe
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        run: |
-          curl -X POST \
-            -H "Accept: application/vnd.github.v3+json" \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            https://api.github.com/repos/HITSZ-OpenAuto/hoa-moe/actions/workflows/course.yaml/dispatches \
-            -d '{"ref":"main"}'
+    secrets:
+      PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
