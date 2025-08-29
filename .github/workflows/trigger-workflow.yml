@@ -1,1 +1,22 @@
+name: Call Worktree Update
 
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  call_reusable_workflow:
+    uses: HITSZ-OpenAuto/repos-management/.github/workflows/reusable_worktree_generate.yml@main
+    permissions:
+      contents: write
+      pull-requests: write
+
+    with:
+      # trigger_page_build == true only when pushing to main branch
+      trigger_page_build: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+
+    secrets:
+      PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
