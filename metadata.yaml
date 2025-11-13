@@ -1,0 +1,23 @@
+GroupCourse:
+    Link: "" 
+    Desc: "自 2024.03.20 开始，由于大物实验每年安排的不确定性，原大学物理实验 IA (PHYS1002A) 与大学物理实验 IB (PHYS1002B) 仓库现采用统一的命名方式，合并成大学物理实验 (PHYS1002) 页面。"
+    Name: "大学物理实验"
+    Ids: ["PHYS1002A", "PHYS1002B"]
+
+GradeComposition:
+    - Name: 实验报告
+      Percentage: 15
+    - Name: 出勤
+      Percentage: 5
+    - Name: 实验预习
+      Percentage: 10
+    - Name: 实验成绩
+      Percentage: 70
+
+CourseHourComposition:
+    - Name: 授课
+      Hour: 2
+    - Name: 实验
+      Hour: 24
+    - Name: 实验预习
+      Hour: 2
