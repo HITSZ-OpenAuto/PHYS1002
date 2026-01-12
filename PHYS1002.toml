@@ -1,4 +1,3 @@
-# 贡献者 Gaster, Maxwell Jay, Longlin Li 提供了部分日期信息（如 2025.3），但因格式不符合 YYYY-MM-DD，已置空。
 course_name = "大学物理实验"
 course_code = "PHYS1002"
 
@@ -16,14 +15,10 @@ textbooks = []
 online_resources = []
 
 [[course]]
-content = "这门课只有 1 学分，然而总共有 20 学时以上要求，相当费时费力，所以我们的应对办法就是将省事的工具集中起来，让选做各种物理实验的同学们能更快地完成实验外的工作。"
-[course.author]
-name = ""
-link = ""
-date = ""
-
-[[exam]]
-content = "成绩构成是每次实验得分的加权和。根据2023年的情况，本课程没有期末考试。"
+content = """
+这门课只有 1 学分，然而总共有 20 学时以上要求，相当费时费力，所以我们的应对办法就是将省事的工具集中起来，让选做各种物理实验的同学们能更快地完成实验外的工作。"
+成绩构成是每次实验得分的加权和。根据2023年的情况，本课程没有期末考试。
+"""
 [exam.author]
 name = ""
 link = ""
@@ -48,7 +43,7 @@ content = """
 [advice.author]
 name = "Gaster"
 link = "https://github.com/WDGaster703/"
-date = ""
+date = "2025-03-01"
 
 [[advice]]
 content = """
@@ -71,9 +66,9 @@ content = """
 虚拟仿真实验都有学习模式和实验模式两个模式，做完一个模式后**不要退出实验而是回到主页进入另一个模式完成**，否则实验成绩只有一个模式的成绩（50-）
 """
 [advice.author]
-name = "Maxwell Jay & Longlin Li & Gaster"
+name = "Maxwell Jay, Longlin Li, Gaster"
 link = "https://github.com/MaxwellJay256, https://github.com/longlin10086, https://github.com/WDGaster703"
-date = ""
+date = "2025-03"
 
 schedule = []
 
