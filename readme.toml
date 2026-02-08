@@ -62,7 +62,8 @@ content = """
 author = [
   { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-12" },
   { name = "Longlin Li", link = "https://github.com/longlin10086", date = "2024-04" },
-  { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-03" }]
+  { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-03" },
+]
 
 [[sections]]
 title = "目录与个人仓库"
