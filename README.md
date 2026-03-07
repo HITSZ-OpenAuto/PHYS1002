@@ -1,4 +1,6 @@
 # PHYS1002 - 大学物理实验
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![每次实验得分的加权和100%](https://img.shields.io/badge/每次实验得分的加权和-100%25-wheat)
@@ -12,6 +14,9 @@
 这门课只有 1 学分，然而总共有 20 学时以上要求，相当费时费力，所以我们的应对办法就是将省事的工具集中起来，让选做各种物理实验的同学们能更快地完成实验外的工作。
 
 ## 新人须知
+<!-- TOML-SECTION: title="新人须知" -->
+
+<!-- TOML-ITEM: id="item-新人须知-1" author_type="list" -->
 
 大一春季学期开学后，会安排一节大学物理实验绪论课（23 级以前是 4 学时，24 级改成了 2 学时，意味着实验要求学时增加了 2 学时），介绍大学物理实验课程的基本内容、实验要求、数据处理方式、实验报告要求，并会有一次绪论课作业，**此次作业算作一次实验计入最终成绩的计算！**
 
@@ -58,6 +63,9 @@
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256)，2023-12，[Longlin Li](https://github.com/longlin10086)，2024-04，[Gaster](https://github.com/WDGaster703)，2025-03
 
 ## 目录与个人仓库
+<!-- TOML-SECTION: title="目录与个人仓库" -->
+
+<!-- TOML-ITEM: id="item-目录与个人仓库-1" -->
 
 考虑到开设的实验列表每年都有变化，因此以下仓库是对历史开设实验的记录，不再区分「本学年开设的实验」，可以使用浏览器查找功能寻找需要的实验。**_由于实验列表及学分有可能变化，还望后来者及时补充。_**
 
@@ -106,6 +114,9 @@
 - [Zjl37/phys1006-workspace](https://github.com/Zjl37/phys1006-workspace): 动量子的大物实验工作区，含有实验报告的 Typst 模板和一些数据处理程序
 
 ## 关于本仓库与贡献
+<!-- TOML-SECTION: title="关于本仓库与贡献" -->
+
+<!-- TOML-ITEM: id="item-关于本仓库与贡献-1" -->
 
 每个人选择的物理实验不同，一个人即使上传了自己全部的实验资料也不能覆盖到所有人的需求；仓库的几位维护者在一学期内也不一定做了全部的实验。
 
