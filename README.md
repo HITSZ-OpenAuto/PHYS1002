@@ -1,8 +1,3 @@
-<!-- RDME_TOML_AUTOGEN_WARNING_START -->
-> [!WARNING]
-> TOML 自动化格式化/生成 README 失败：请检查 readme.toml，并查看 Actions 日志。
-<!-- RDME_TOML_AUTOGEN_WARNING_END -->
-
 # PHYS1002 - 大学物理实验
 <!-- TOML-META: repo_type="normal" -->
 <!-- TOML-BADGES: source="grades_summary" -->
