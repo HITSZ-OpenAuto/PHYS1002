@@ -99,11 +99,10 @@ content = """
 |    22    |         光电效应法测定普朗克常量         |    [Exp22](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp22)    |  2   |
 |    23    |       磁光效应及其在光通信中的应用       |    [Exp23](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp23)    |  2   |
 |    24    |           液晶电光效应及其应用           |    [Exp24](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp24)    |  4   |
-|    25    | 红外波的物理特性及其研究（虚拟仿真项目） |    [Exp25](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp25)    |  2   |
-|    26    |     光强调制法测光速（虚拟仿真实验）     |    [Exp26](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp26)    |  2   |
-|    27    |            自组光栅光谱仪实验          |    [Exp27](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp27)    |  4   |
-|    28    |               碰撞打靶实验            |    [Exp28](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp28)    |  2   |
-|    29    |        示波器实验（虚拟仿真项目）       |    [Exp29](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp29)    |  2   |
+|    25    |     光强调制法测光速（虚拟仿真实验）     |    [Exp25](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp25)    |  2   |
+|    26    |            自组光栅光谱仪实验          |    [Exp26](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp26)    |  4   |
+|    27    |               碰撞打靶实验            |    [Exp27](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp27)    |  2   |
+|    28    |        示波器实验（虚拟仿真项目）       |    [Exp28](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp28)    |  2   |
 | archived |        过于陈旧不太可能开展的实验        | [archived](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/archived) |  省略  |
 
 ### 个人实验仓库收集
