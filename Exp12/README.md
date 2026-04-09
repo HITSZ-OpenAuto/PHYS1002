@@ -16,6 +16,9 @@
 
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2023.11
 
+实验过程中温度会降低，所以建议快速做完实验，否则误差会偏大
+> 文 / [IceFerryLing](https://github.com/IceFerryLing)，2026.4
+
 ## 关于实验报告
 
 报告里要计算不确定度，不是很友好的样子。
