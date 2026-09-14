@@ -101,6 +101,7 @@ content = """
 |    26    |            自组光栅光谱仪实验          |    [Exp26](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp26)    |  4   |
 |    27    |               碰撞打靶实验            |    [Exp27](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp27)    |  2   |
 |    28    |        示波器实验（虚拟仿真项目）       |    [Exp28](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp28)    |  2   |
+|    29    |             电子荷质比的测定             |    [Exp29](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/Exp29)    |  2   |
 | archived |        过于陈旧不太可能开展的实验        | [archived](https://github.com/HITSZ-OpenAuto/PHYS1002/tree/main/archived) |  省略  |
 
 ### 个人实验仓库收集
