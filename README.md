@@ -50,6 +50,11 @@
 2. 计算不确定度：实验报告中最麻烦的步骤就是计算测量物理量的不确定度。因此那些不需要计算不确定度的实验应该是你优先的选择。
 3. 绘图：实验报告还有可能让你绘制一些统计图。当然现在的实验报告使用的是电子版，所以可以尽情地使用各种绘图软件。仓库中需要绘图的实验基本上都有我们上传的程序，因此这一点对于实验难度的影响有限。
 
+
+- 注：第 2 点与第 3 点的难度，在如今 LLM 等趁手工具迅速发展的背景下已经被大幅拉低，参考[大物实验傻瓜式 Skill](https://github.com/tech-cats/Physics-Lab-Report-Maker)。因此，建议主要考虑第 1 点的难度。
+> 文 / [rana]([https://example.com](https://github.com/rana608))， 2026-09
+
+
 每个实验文件夹下的 `README.md` 文件中都有对应实验的一些描述，你可以参考这些评价来选择你的实验。
 > [!Note]
 > 当然，这里必须提到一类特殊的实验：**虚拟仿真实验**。这些实验需要在物理实验仿真平台上进行实验操作和数据记录。
@@ -110,6 +115,7 @@
 - [Doctxing/phytex](https://github.com/Doctxing/phytex)：[Doctxing](https://github.com/Doctxing) 同学制作的 $\LaTeX$ 模板及数据处理程序
 - [longlin10086/HITSZ-PhTyp](https://github.com/longlin10086/HITSZ-PhTyp): 一个大物实验报告的 Typst 模板
 - [Zjl37/phys1006-workspace](https://github.com/Zjl37/phys1006-workspace): 动量子的大物实验工作区，含有实验报告的 Typst 模板和一些数据处理程序
+- [HITSZ 大物实验 Skill](https://github.com/tech-cats/Physics-Lab-Report-Maker): [rana](https://github.com/rana608) 同学制作的大物实验报告一键处理 Skill
 
 ## 关于本仓库与贡献
 <!-- TOML-SECTION: title="关于本仓库与贡献" -->
