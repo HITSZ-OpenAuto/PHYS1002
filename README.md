@@ -52,8 +52,10 @@
 
 
 - 注：第 2 点与第 3 点的难度，在如今 LLM 等趁手工具迅速发展的背景下已经被大幅拉低，参考[大物实验傻瓜式 Skill](https://github.com/tech-cats/Physics-Lab-Report-Maker)。因此，建议主要考虑第 1 点的难度。
-> 文 / [rana]([https://example.com](https://github.com/rana608))， 2026-09
 
+> 文 / [rana]([https://example.com](https://github.com/rana608)，)，2026-09
+
+<!-- TOML-ITEM: id="item-新人须知-2" author_type="list" -->
 
 每个实验文件夹下的 `README.md` 文件中都有对应实验的一些描述，你可以参考这些评价来选择你的实验。
 > [!Note]
