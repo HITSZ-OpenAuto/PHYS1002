@@ -1,0 +1,1337 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763813733,
+    "hash": "97082e14635151d210f80e6009fef128956a0912"
+  },
+  ".gitignore": {
+    "size": 3113,
+    "time": 1710918762,
+    "hash": "ef3bd73002a6d8d84f661c1108e7c1580da835da"
+  },
+  "Exp01/README.md": {
+    "size": 1202,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/用示波器观察磁滞回线（22级 MaxwellJay）/HysteresisLoop_MaxwellJay.ipynb": {
+    "size": 129084,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/用示波器观察磁滞回线（22级 MaxwellJay）/实验报告后半部分.pdf": {
+    "size": 782594,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/用示波器观测磁滞回线（20级 LiuYuming）.pdf": {
+    "size": 8178726,
+    "time": 1720752554,
+    "hash": "2beacb4bcda853d26207f148a2cee86944e5b926"
+  },
+  "Exp01/用示波器观测磁滞回线（22级 psp_dada）.pdf": {
+    "size": 2033904,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp01/用示波器观测磁滞回线（23级 Suiii）.pdf": {
+    "size": 1798694,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp01/用示波器观测磁滞回线（23级Gaster）.pdf": {
+    "size": 1748056,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/用示波器观测磁滞回线（24级 Fun10165）.pdf": {
+    "size": 5827607,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp01/磁滞回线（21级Origami404）/README.md": {
+    "size": 1,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/磁滞回线（21级Origami404）/磁滞回线-1.jpg": {
+    "size": 2809792,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/磁滞回线（21级Origami404）/磁滞回线-2.jpg": {
+    "size": 3054548,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/磁滞回线（21级Origami404）/磁滞回线-3.jpg": {
+    "size": 2800737,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/磁滞回线（21级Origami404）/磁滞回线-4.jpg": {
+    "size": 2827368,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp01/磁滞回线（22级 longlin）.ipynb": {
+    "size": 140510,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp02/README.md": {
+    "size": 1431,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp02/拉伸法测杨氏弹性模量 (24级 cecilia).pdf": {
+    "size": 612816,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
+  "Exp02/拉伸法测杨氏弹性模量 (24级 kajimi16).pdf": {
+    "size": 4736840,
+    "time": 1751078071,
+    "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp02/拉伸法测杨氏弹性模量(20级 LiuYuming).pdf": {
+    "size": 16213175,
+    "time": 1696322184,
+    "hash": "faa344a166a8b85c7ba4d5b8f323b092330558ad"
+  },
+  "Exp02/拉伸法测杨氏弹性模量(22级 Maxwell Jay).pdf": {
+    "size": 5179293,
+    "time": 1703037815,
+    "hash": "4f8b28a9117ff984bb9826f68d23a61bc8c310d1"
+  },
+  "Exp02/拉伸法测杨氏弹性模量(23级 zhuqi_000).pdf": {
+    "size": 309869,
+    "time": 1738254121,
+    "hash": "fd17fb6830ce790b3daa2aea7943b341b62981d9"
+  },
+  "Exp02/拉伸法测杨氏弹性模量(25级 naiyoung).pdf": {
+    "size": 5202102,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp02/拉伸法测杨氏弹性模量（22级 psp_dada）.pdf": {
+    "size": 4435531,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp02/拉伸法测杨氏弹性模量（23级 Suiii）.pdf": {
+    "size": 1587487,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp02/杨氏模量预习（22级 empty）.jpg": {
+    "size": 84669,
+    "time": 1700494006,
+    "hash": "226e59379d3222c67c5dd8cc662c4816bf4106cb"
+  },
+  "Exp02/杨氏模量（21级 Origami404）/README.md": {
+    "size": 1,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp02/杨氏模量（21级 Origami404）/杨氏模量-1.jpg": {
+    "size": 2703954,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp02/杨氏模量（21级 Origami404）/杨氏模量-2.jpg": {
+    "size": 3050931,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp02/杨氏模量（21级 Origami404）/杨氏模量-3.jpg": {
+    "size": 2941918,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp02/杨氏模量（21级 Origami404）/杨氏模量-4.jpg": {
+    "size": 2858176,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp02/计算器/README.md": {
+    "size": 109,
+    "time": 1702987863,
+    "hash": "646c1a180db847fa368d5fe0e94cd31d3f49bbed"
+  },
+  "Exp02/计算器/杨氏模量.py": {
+    "size": 1796,
+    "time": 1702987879,
+    "hash": "4f11f5758d389d7f6d18164c53bd829a36a06071"
+  },
+  "Exp03/README.md": {
+    "size": 713,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp03/液体粘度预习（22级 empty）.jpg": {
+    "size": 96060,
+    "time": 1700494031,
+    "hash": "8f1f6ef830692c8d790ae45536ab004557dc1d49"
+  },
+  "Exp03/液体粘度（21级 Origami404）/README.md": {
+    "size": 1,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp03/液体粘度（21级 Origami404）/液体黏度-1.jpg": {
+    "size": 3041850,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp03/液体粘度（21级 Origami404）/液体黏度-2.jpg": {
+    "size": 3089558,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp03/液体黏度测定(20级 LiuYuming).pdf": {
+    "size": 26522059,
+    "time": 1696495938,
+    "hash": "351b103673e666d3867a6671615b3012eef48802"
+  },
+  "Exp03/液体黏度的测定.pdf": {
+    "size": 704626,
+    "time": 1727193971,
+    "hash": "e4c92b75025abe37768490088e601dd5a5ea401e"
+  },
+  "Exp03/液体黏度的测定（24级 Fun10165）.pdf": {
+    "size": 3716245,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp03/液体黏度的测定（25级 Georgome）.pdf": {
+    "size": 2412104,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp04/README.md": {
+    "size": 930,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp04/薄透镜焦距测定(20级 LiuYuming).pdf": {
+    "size": 18423558,
+    "time": 1696322255,
+    "hash": "865ebdc7d1d9f16333df61624d84ecec824a598e"
+  },
+  "Exp04/薄透镜焦距的测定(22级 Maxwell Jay).pdf": {
+    "size": 5203478,
+    "time": 1703037815,
+    "hash": "4f8b28a9117ff984bb9826f68d23a61bc8c310d1"
+  },
+  "Exp04/薄透镜焦距的测定(22级 longlin).ipynb": {
+    "size": 5779,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp04/薄透镜焦距的测定（22级 psp_dada）.pdf": {
+    "size": 4420241,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp05/README.md": {
+    "size": 1651,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp05/惠斯通电桥与伏安特性(20级 LiuYuming).pdf": {
+    "size": 1864673,
+    "time": 1696322281,
+    "hash": "2313a820453653b502f19b4919750c9595f37994"
+  },
+  "Exp05/惠斯通电桥（21级 Origami404）/README.md": {
+    "size": 1,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp05/惠斯通电桥（21级 Origami404）/惠斯特电桥-1.jpg": {
+    "size": 2917962,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp05/惠斯通电桥（21级 Origami404）/惠斯特电桥-2.jpg": {
+    "size": 3184641,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp05/用惠斯通电桥测电阻(22级 Maxwell Jay).pdf": {
+    "size": 3637384,
+    "time": 1703037815,
+    "hash": "4f8b28a9117ff984bb9826f68d23a61bc8c310d1"
+  },
+  "Exp05/用惠斯通电桥测电阻(25级 naiyoung).pdf": {
+    "size": 3231796,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp05/用惠斯通电桥测电阻（22级 psp_dada）.pdf": {
+    "size": 419856,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp05/用惠斯通电桥测电阻（23级 Suiii）.pdf": {
+    "size": 1051550,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp05/用惠斯通电桥测电阻（24级 Fun10165）.pdf": {
+    "size": 1598401,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp05/用惠斯通电桥测电阻（25级 Georgome）.pdf": {
+    "size": 2165047,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp05/用惠斯通电桥测电阻（25级 IceFerryLing）.pdf": {
+    "size": 1113416,
+    "time": 1775720567,
+    "hash": "a682992ff297547711d8a60c613a71b31076f8ba"
+  },
+  "Exp06/DIY实验——磁耦合共振式无线电力传输实验研究实验报告模板.docx": {
+    "size": 29627,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp06/README.md": {
+    "size": 1149,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp06/WirelessPowerTransmission(MaxwellJay).ipynb": {
+    "size": 82539,
+    "time": 1703037815,
+    "hash": "4f8b28a9117ff984bb9826f68d23a61bc8c310d1"
+  },
+  "Exp06/plot_by_luweiyan.ipynb": {
+    "size": 90463,
+    "time": 1702968313,
+    "hash": "289cbf4f05e1a16c756a18a00d9768c2d9a8869f"
+  },
+  "Exp06/无线电力传输（21级 Origami404）/README.md": {
+    "size": 1,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp06/无线电力传输（21级 Origami404）/无线电力传输-1.jpg": {
+    "size": 2871853,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp06/无线电力传输（21级 Origami404）/无线电力传输-2.jpg": {
+    "size": 3040346,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp06/无线电力传输（21级 Origami404）/无线电力传输-3.jpg": {
+    "size": 3018057,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp06/无线电力传输（21级 Origami404）/无线电力传输-4.jpg": {
+    "size": 2638955,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp06/磁耦合共振·式无线电力传输 (24级 cecilia).pdf": {
+    "size": 373958,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
+  "Exp06/磁耦合共振式无线电力传输实验(22级 Maxwell Jay).pdf": {
+    "size": 5790675,
+    "time": 1703037815,
+    "hash": "4f8b28a9117ff984bb9826f68d23a61bc8c310d1"
+  },
+  "Exp06/磁耦合共振式无线电力传输实验研究（22级 psp_dada）.pdf": {
+    "size": 549677,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp06/磁耦合共振式无线电力传输实验预习（22级 empty）.png": {
+    "size": 170957,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp06/磁耦合谐振式无线电力传输实验(24级 kajimi16).pdf": {
+    "size": 4759149,
+    "time": 1751078071,
+    "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp06/磁耦合谐振式无线电力传输实验研究(23级 zhuqi_000).pdf": {
+    "size": 324995,
+    "time": 1738254121,
+    "hash": "fd17fb6830ce790b3daa2aea7943b341b62981d9"
+  },
+  "Exp06/磁耦合谐振式无线电力传输实验研究(25级 naiyoung).pdf": {
+    "size": 5054094,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp06/磁耦合谐振式无线电力传输实验（23级 Gaster）.pdf": {
+    "size": 700479,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp06/磁耦合谐振式无线电力传输实验（23级 Suiii）.pdf": {
+    "size": 1532143,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp06/磁耦合谐振式无线电力传输实验（24级 Fun10165）.pdf": {
+    "size": 5239191,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp07/C11声速计算(24-lajilizi)/main.c": {
+    "size": 3588,
+    "time": 1742705313,
+    "hash": "e318c791ee4a37b6aa7c12614b27914817b0b262"
+  },
+  "Exp07/C11声速计算(24-lajilizi)/readme.md": {
+    "size": 612,
+    "time": 1742439253,
+    "hash": "6c1d01bc0ea8bbb82708261312fbfaff0a012439"
+  },
+  "Exp07/README.md": {
+    "size": 490,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp07/声速测量（21级 Origami404）/README.md": {
+    "size": 1,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp07/声速测量（21级 Origami404）/声速测量-1.jpg": {
+    "size": 2605934,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp07/声速测量（21级 Origami404）/声速测量-2.jpg": {
+    "size": 2912637,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp07/声速测量（21级 Origami404）/声速测量-3.jpg": {
+    "size": 3085258,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp07/声速测量（21级 Origami404）/声速测量-4.jpg": {
+    "size": 3032812,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp07/声速测量（22级 longlin）.ipynb": {
+    "size": 4330,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp07/声速的测量(22级 Maxwell Jay).pdf": {
+    "size": 5058782,
+    "time": 1703037815,
+    "hash": "4f8b28a9117ff984bb9826f68d23a61bc8c310d1"
+  },
+  "Exp07/声速的测量（22级 psp_dada）.pdf": {
+    "size": 4364538,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp07/空气中声速的测量 (24级 cecilia).pdf": {
+    "size": 686007,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
+  "Exp07/空气中声速的测量(20级 LiuYuming).pdf": {
+    "size": 12746145,
+    "time": 1696322311,
+    "hash": "497345f71f4b7bea7511c9b2e803c86eedf78044"
+  },
+  "Exp07/空气中声速的测量(24级 kajimi16).pdf": {
+    "size": 3792302,
+    "time": 1751078071,
+    "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp07/空气中声速的测量(25级 naiyoung).pdf": {
+    "size": 6372629,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp07/空气中声速的测量（23级 Gaster）.pdf": {
+    "size": 682360,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp07/空气中声速的测量（23级 Suiii）.pdf": {
+    "size": 1370978,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp07/空气中声速的测量（24级 Fun10165）.pdf": {
+    "size": 4530479,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp07/空气中声速的测量（25级 Georgome）.pdf": {
+    "size": 1703507,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp08/README.md": {
+    "size": 187,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp08/迈克尔逊预习（22级 empty）.png": {
+    "size": 152226,
+    "time": 1700493916,
+    "hash": "bbd13d6c04761acf934ea9dc1999256a3518d38c"
+  },
+  "Exp08/迈克尔逊（21级 Origami404）/README.md": {
+    "size": 1,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp08/迈克尔逊（21级 Origami404）/麦克尔逊-1.jpg": {
+    "size": 2640514,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp08/迈克尔逊（21级 Origami404）/麦克尔逊-2.jpg": {
+    "size": 2814811,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp09/README.md": {
+    "size": 779,
+    "time": 1775720567,
+    "hash": "a682992ff297547711d8a60c613a71b31076f8ba"
+  },
+  "Exp09/密立根油滴法（22级 psp_dada）.pdf": {
+    "size": 657363,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp09/密立根（21级 Origami404）/README.md": {
+    "size": 1,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp09/密立根（21级 Origami404）/密立根-1.jpg": {
+    "size": 2574340,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp09/密立根（21级 Origami404）/密立根-2.jpg": {
+    "size": 2707404,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp09/密立根（21级 Origami404）/密立根-3.jpg": {
+    "size": 2717791,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp09/密立根（21级 Origami404）/密立根-4.jpg": {
+    "size": 2636627,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp09/密里根预习（22级 empty）.png": {
+    "size": 142499,
+    "time": 1700493959,
+    "hash": "1c88cd8c6ec064c4c5f92a1d8411aaccd579fa51"
+  },
+  "Exp09/电子电荷测定——密立根油滴法(20级 LiuYuming).pdf": {
+    "size": 19842742,
+    "time": 1696322379,
+    "hash": "890f32e6985a5023f0daeccf59c0aedffc43b42a"
+  },
+  "Exp09/电子电荷的测定-密立根油滴法 (24级 cecilia).pdf": {
+    "size": 769650,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
+  "Exp09/电子电荷的测定——密立根油滴法(22级 paipoex).ipynb": {
+    "size": 4187,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp09/电子电荷的测定——密立根油滴法（24级 Fun10165）.pdf": {
+    "size": 5181409,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp09/电子电荷的测定——密立根油滴法（25级 Georgome）.pdf": {
+    "size": 2698233,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/.gitignore": {
+    "size": 22,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/1-VH-IM.csv": {
+    "size": 396,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/2-VH-IS.csv": {
+    "size": 332,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/3-VH-x.csv": {
+    "size": 1484,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/4-Vout-IM.csv": {
+    "size": 433,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/5-Vout-theta.csv": {
+    "size": 158,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/Exp10-Hall_Effect.ipynb": {
+    "size": 248581,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/README.md": {
+    "size": 652,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/Hall_Effect（22级 MaxwellJay）/霍尔效应传感器和各向异性磁电阻传感器(22级 MaxwellJay).pdf": {
+    "size": 12364711,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/README.md": {
+    "size": 1390,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp10/霍尔效应(20级 LiuYuming).pdf": {
+    "size": 11562297,
+    "time": 1696322343,
+    "hash": "cb8937e93ecacd412e3a55a720ec398ed4de4fbd"
+  },
+  "Exp10/霍尔效应及其应用 (24级 cecilia).pdf": {
+    "size": 941008,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
+  "Exp10/霍尔效应及其应用(23级 zhuqi_000).pdf": {
+    "size": 407778,
+    "time": 1738254121,
+    "hash": "fd17fb6830ce790b3daa2aea7943b341b62981d9"
+  },
+  "Exp10/霍尔效应及其应用(25级 naiyoung).pdf": {
+    "size": 16672480,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp10/霍尔效应及其应用（23级 Suiii）.pdf": {
+    "size": 4873818,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp10/霍尔效应及其应用（24级 Fun10165）.pdf": {
+    "size": 8917851,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp10/霍尔效应及其应用（25级 Georgome）.pdf": {
+    "size": 7333664,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp10/霍尔效应和各向异性电阻 (24级 kajimi16).pdf": {
+    "size": 9684061,
+    "time": 1751078071,
+    "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp11/README.md": {
+    "size": 1212,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp11/太阳能电池的基本特性研究（22级 psp_dada）.pdf": {
+    "size": 2213366,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp11/太阳能电池的基本特性研究（23级 Gaster）.pdf": {
+    "size": 2159819,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp11/太阳能电池的基本特性研究（23级 Suiii）.pdf": {
+    "size": 2447175,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp11/太阳能电池的基本特性研究（24级 Fun10165）.pdf": {
+    "size": 4841986,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp11/太阳能电池补充（22级 ChihayaAnon987）.ipynb": {
+    "size": 124299,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp11/太阳能电池（21级 Oliver Wu）.pdf": {
+    "size": 2896871,
+    "time": 1710918762,
+    "hash": "ef3bd73002a6d8d84f661c1108e7c1580da835da"
+  },
+  "Exp11/太阳能电池（22级 longlin）.ipynb": {
+    "size": 381461,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp12/README.md": {
+    "size": 1200,
+    "time": 1775720567,
+    "hash": "a682992ff297547711d8a60c613a71b31076f8ba"
+  },
+  "Exp12/Surface_tension（22级 MaxwellJay）/README.md": {
+    "size": 795,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp12/Surface_tension（22级 MaxwellJay）/Report-MaxwellJay.pdf": {
+    "size": 6858903,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp12/液体表面张力的测定 (24级 kajimi16).pdf": {
+    "size": 5991441,
+    "time": 1751078071,
+    "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp12/液体表面张力系数测量(25级 naiyoung).pdf": {
+    "size": 10917248,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp12/液体表面张力系数测量（24级 Fun10165）.pdf": {
+    "size": 9883626,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp12/液体表面张力系数测量（25级 Georgome）.pdf": {
+    "size": 3890239,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp12/液体表面张力系数测量（25级 IceFerryLing）.pdf": {
+    "size": 3798319,
+    "time": 1775720567,
+    "hash": "a682992ff297547711d8a60c613a71b31076f8ba"
+  },
+  "Exp12/计算器/README.md": {
+    "size": 221,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp12/计算器/表面张力.py": {
+    "size": 3482,
+    "time": 1702984548,
+    "hash": "a96e4245508316a1e9defa236a2a41b25984ca90"
+  },
+  "Exp13/README.md": {
+    "size": 580,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp13/自组显微镜与望远镜（21级 Oliver Wu）.pdf": {
+    "size": 2579376,
+    "time": 1720752554,
+    "hash": "2beacb4bcda853d26207f148a2cee86944e5b926"
+  },
+  "Exp13/自组显微镜与望远镜（22级 psp_dada）.pdf": {
+    "size": 1607986,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp13/自组显微镜与望远镜（23级 Suiii）.pdf": {
+    "size": 1247631,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp13/自组显微镜与望远镜（25级 Georgome）.pdf": {
+    "size": 3609349,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp14/README.md": {
+    "size": 555,
+    "time": 1788837575,
+    "hash": "77ee41de8ec818bf5cdcf91a8baab4fec5f53892"
+  },
+  "Exp14/分光计的调节及应用（21级 Oliver Wu）.pdf": {
+    "size": 2792175,
+    "time": 1710918762,
+    "hash": "ef3bd73002a6d8d84f661c1108e7c1580da835da"
+  },
+  "Exp14/分光计的调节及应用（22级 psp_dada）.pdf": {
+    "size": 2227990,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp14/分光计的调节及应用（23级 Suiii）.pdf": {
+    "size": 1572990,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp14/分光计的调节及应用（24级 Fun10165）.pdf": {
+    "size": 4331206,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp15/README.md": {
+    "size": 587,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp15/光的等厚干涉现象与应用（21级 Oliver Wu）.pdf": {
+    "size": 1311518,
+    "time": 1710918762,
+    "hash": "ef3bd73002a6d8d84f661c1108e7c1580da835da"
+  },
+  "Exp15/光的等厚干涉现象与应用（23级 Gaster）.pdf": {
+    "size": 1350592,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp15/光的等厚干涉现象与应用（23级 Suiii）.pdf": {
+    "size": 1041458,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp16/README.md": {
+    "size": 683,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp16/准稳态法测不良导体的比热容和导热系数（21级 Oliver Wu）.pdf": {
+    "size": 2709079,
+    "time": 1710918762,
+    "hash": "ef3bd73002a6d8d84f661c1108e7c1580da835da"
+  },
+  "Exp16/准稳态法测不良导体的比热容和导热系数（23级 Gaster）.pdf": {
+    "size": 1673633,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp16/准稳态法测不良导体的比热容和导热系数（23级 Suiii）.pdf": {
+    "size": 1820465,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp16/准稳态测量不良导体的比热容和导热系数(25级 naiyoung).pdf": {
+    "size": 8089168,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp16/准稳态测量不良导体的比热容和导热系数（25级 Georgome）.pdf": {
+    "size": 4923293,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp16/画图（25级 61m）/Exp16.m": {
+    "size": 956,
+    "time": 1779249856,
+    "hash": "8e9eac45996aad3ab50e13ddbd3203678fe7c8b6"
+  },
+  "Exp17/README.md": {
+    "size": 422,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp17/全息技术实验(23级 zhuqi_000).pdf": {
+    "size": 213261,
+    "time": 1738254121,
+    "hash": "fd17fb6830ce790b3daa2aea7943b341b62981d9"
+  },
+  "Exp17/全息技术实验（22级 psp_dada）.pdf": {
+    "size": 800136,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp17/全息技术实验（23级 Suiii）.pdf": {
+    "size": 1477073,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp18/README.md": {
+    "size": 785,
+    "time": 1775720567,
+    "hash": "a682992ff297547711d8a60c613a71b31076f8ba"
+  },
+  "Exp18/RLC串联电路暂态过程研究 (24级 kajimi16).pdf": {
+    "size": 4841637,
+    "time": 1751078071,
+    "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp18/RLC暂态电路特性的研究 (24级 cecilia).pdf": {
+    "size": 347864,
+    "time": 1751815096,
+    "hash": "9c939710ed9f907fded7d495e962ae0cfca4f31c"
+  },
+  "Exp18/RLC电路暂态特性的研究(23级 zhuqi_000).pdf": {
+    "size": 384667,
+    "time": 1738254121,
+    "hash": "fd17fb6830ce790b3daa2aea7943b341b62981d9"
+  },
+  "Exp18/RLC电路暂态特性的研究报告（22级 psp_dada）.pdf": {
+    "size": 468334,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp18/RLC电路暂态特性的研究（21级 Oliver Wu）.pdf": {
+    "size": 1818561,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp18/RLC电路暂态特性的研究（24级 Fun10165）.pdf": {
+    "size": 9200452,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp18/RLC电路暂态特性的研究（25级 IceFerryLing）.pdf": {
+    "size": 10538467,
+    "time": 1775720567,
+    "hash": "a682992ff297547711d8a60c613a71b31076f8ba"
+  },
+  "Exp18/RLC电路特性实验报告(25级 naiyoung).pdf": {
+    "size": 10685240,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp19/README.md": {
+    "size": 1341,
+    "time": 1789724697,
+    "hash": "951436d1e72aed8323654cb76e53b5dbb6c108c9"
+  },
+  "Exp19/双光栅检测微弱振动（21级 Oliver Wu）.pdf": {
+    "size": 1370263,
+    "time": 1710918762,
+    "hash": "ef3bd73002a6d8d84f661c1108e7c1580da835da"
+  },
+  "Exp19/双光栅检测微弱振动（23级 Gaster）.pdf": {
+    "size": 1490205,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp19/双光栅检测微弱振动（23级 Suiii）.pdf": {
+    "size": 1053310,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp19/双光栅检测微弱振动（24级 Fun10165）.pdf": {
+    "size": 2456444,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/1-GMR模拟传感器磁电转换特性曲线.png": {
+    "size": 50602,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/2-GMR磁阻特性曲线.png": {
+    "size": 50903,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/3-GMR开关传感器磁电转换特性曲线.png": {
+    "size": 28748,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/4-GMR模拟传感器测量电流.png": {
+    "size": 61902,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/5-GMR梯度传感器转动角度和输出电压关系曲线.png": {
+    "size": 36577,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/GMR.ipynb": {
+    "size": 314496,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/data-1.csv": {
+    "size": 520,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/data-2.csv": {
+    "size": 1151,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/data-4.csv": {
+    "size": 212,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/GMR(22级 MaxwellJay)/data-5.csv": {
+    "size": 0,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/README.md": {
+    "size": 1440,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp20/巨磁阻效应与应用（22级 psp_dada）.pdf": {
+    "size": 1045410,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp20/巨磁阻效应与应用（23级 Gaster）.pdf": {
+    "size": 1161256,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp21/README.md": {
+    "size": 681,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp21/弗兰克-赫兹实验 (24级 kajimi16).pdf": {
+    "size": 5881901,
+    "time": 1751078071,
+    "hash": "a88cf4644e5664deb39c51e61187abfeb8c4122c"
+  },
+  "Exp21/弗兰克赫兹实验（22级 psp_dada）.pdf": {
+    "size": 643351,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp22/Photoelectric-Effect（22级 MaxwellJay）/2mm.png": {
+    "size": 24213,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp22/Photoelectric-Effect（22级 MaxwellJay）/4mm.png": {
+    "size": 24186,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp22/Photoelectric-Effect（22级 MaxwellJay）/8mm.png": {
+    "size": 24333,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp22/Photoelectric-Effect（22级 MaxwellJay）/data.csv": {
+    "size": 116,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp22/Photoelectric-Effect（22级 MaxwellJay）/光电效应法测定普朗克常量.ipynb": {
+    "size": 101684,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp22/README.md": {
+    "size": 949,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp22/光电效应法测定普朗克常量（21级 Oliver Wu）.pdf": {
+    "size": 2294698,
+    "time": 1720752554,
+    "hash": "2beacb4bcda853d26207f148a2cee86944e5b926"
+  },
+  "Exp22/光电效应法测定普朗克常量（22级 psp_dada）.pdf": {
+    "size": 560962,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp22/光电效应法测定普朗克常量（23级 Suiii）.pdf": {
+    "size": 1500174,
+    "time": 1742799801,
+    "hash": "e4b86a9c121e85c2f43c17d17b7c1754207be67c"
+  },
+  "Exp23/README.md": {
+    "size": 983,
+    "time": 1758273477,
+    "hash": "280836752d7499d6db3ea49a4b1ee70cb00d73e6"
+  },
+  "Exp23/磁光效应及其在光通信中的应用(23级 zhuqi_000).pdf": {
+    "size": 288862,
+    "time": 1738254121,
+    "hash": "fd17fb6830ce790b3daa2aea7943b341b62981d9"
+  },
+  "Exp23/磁光效应及其在光通信中的应用（21级 Oliver Wu）.pdf": {
+    "size": 3019895,
+    "time": 1710918762,
+    "hash": "ef3bd73002a6d8d84f661c1108e7c1580da835da"
+  },
+  "Exp23/磁光效应及其在光通信中的应用（22级 psp_dada）.pdf": {
+    "size": 561750,
+    "time": 1736784205,
+    "hash": "998668a653d1f9a9c06af3c9534148b58aa6844a"
+  },
+  "Exp23/磁光效应及其在光通信中的应用（23级 Gaster）.pdf": {
+    "size": 999443,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp23/磁光效应及其在光通信中的应用（24级 Fun10165）.pdf": {
+    "size": 5623088,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp24/LCD（22级 MaxwellJay）/LCD.ipynb": {
+    "size": 85375,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp24/LCD（22级 MaxwellJay）/README.md": {
+    "size": 221,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp24/LCD（22级 MaxwellJay）/夹角与输出功率关系图.png": {
+    "size": 34017,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp24/LCD（22级 MaxwellJay）/液晶电光效应及其应用-MaxwellJay.pdf": {
+    "size": 6420276,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp24/LCD（22级 MaxwellJay）/驱动电压与透射率关系图.png": {
+    "size": 26669,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp24/README.md": {
+    "size": 1502,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp24/液晶电光效应及其应用实验（23级 Gaster）.pdf": {
+    "size": 1034364,
+    "time": 1741594978,
+    "hash": "c1ec6150a8cc23ae9a0b4f36c21520a9b8d09bf5"
+  },
+  "Exp24/液晶电光效应及其应用（24级 Fun10165）.pdf": {
+    "size": 4855182,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp25/README.md": {
+    "size": 631,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp25/光强调制法测光速（23级 Gaster）.pdf": {
+    "size": 1013364,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp25/光强调制法测光速（23级 Suiii）.pdf": {
+    "size": 1614484,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp25/光强调制法测光速（虚拟仿真实验）（24级 Fun10165）.pdf": {
+    "size": 9307799,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp26/README.md": {
+    "size": 1653,
+    "time": 1789724777,
+    "hash": "751b9ac6ab6df9404809f5b0ff9722d9f1794cd3"
+  },
+  "Exp26/自组光栅光谱仪实验（23级 cxy）.pdf": {
+    "size": 8167424,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp26/自组光栅光谱仪实验（25级 lin）/README.md": {
+    "size": 1718,
+    "time": 1789724777,
+    "hash": "751b9ac6ab6df9404809f5b0ff9722d9f1794cd3"
+  },
+  "Exp26/自组光栅光谱仪实验（25级 lin）/实验指导书里的粗调Hg灯光谱图.png": {
+    "size": 55563,
+    "time": 1789724777,
+    "hash": "751b9ac6ab6df9404809f5b0ff9722d9f1794cd3"
+  },
+  "Exp26/自组光栅光谱仪实验（25级 lin）/自组光栅光谱仪实验画图程序.py": {
+    "size": 19965,
+    "time": 1789724777,
+    "hash": "751b9ac6ab6df9404809f5b0ff9722d9f1794cd3"
+  },
+  "Exp26/自组光栅光谱仪实验（25级 lin）/自组光栅光谱仪实验（25级 lin）.pdf": {
+    "size": 11155901,
+    "time": 1789724777,
+    "hash": "751b9ac6ab6df9404809f5b0ff9722d9f1794cd3"
+  },
+  "Exp27/README.md": {
+    "size": 172,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp27/基于C的h0推算和数据处理(24-lajilizi)/README.md": {
+    "size": 1014,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp27/基于C的h0推算和数据处理(24-lajilizi)/main.c": {
+    "size": 3472,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp27/碰撞打靶实验 (24级 cecilia).pdf": {
+    "size": 1009842,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp27/碰撞打靶实验 (24级 kajimi16).pdf": {
+    "size": 5518819,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp27/碰撞打靶实验（23级 Suiii）.pdf": {
+    "size": 2474057,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp27/碰撞打靶实验（24级 Fun10165）.pdf": {
+    "size": 4598222,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp28/README.md": {
+    "size": 4763,
+    "time": 1776081472,
+    "hash": "472b5e9b144231cadd4cb1788ddea7de12461bb1"
+  },
+  "Exp28/示波器实验 (24级 kajimi16).pdf": {
+    "size": 5553213,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp28/示波器实验(25级 naiyoung).pdf": {
+    "size": 8351932,
+    "time": 1776710796,
+    "hash": "cdcb5c556d36d9a306c2bd64b6dae87bc69545d6"
+  },
+  "Exp28/示波器实验仿真 (24级 cecilia).pdf": {
+    "size": 352645,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp28/示波器实验（23级 Suiii）.pdf": {
+    "size": 1998881,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "Exp28/示波器实验（25级 Georgome）.pdf": {
+    "size": 3694302,
+    "time": 1790511860,
+    "hash": "4b6214d2728d64c81bf87b9ef98b43fdb42bda6b"
+  },
+  "Exp28/示波器实验（虚拟仿真项目）（24级 Fun10165）.pdf": {
+    "size": 4187979,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  },
+  "Exp29/README.md": {
+    "size": 493,
+    "time": 1789394357,
+    "hash": "ffd22400f960274b2de6f391a2f8224cdea34a65"
+  },
+  "Exp29/电子荷质比的测定(25级Lessar_93m).pdf": {
+    "size": 2982652,
+    "time": 1790045556,
+    "hash": "99082964e311c1a5c679e1ebc59e1768523e48b7"
+  },
+  "Exp29/电子荷质比的测定（25级 QuaL-ctrl）.pdf": {
+    "size": 1368415,
+    "time": 1789394357,
+    "hash": "ffd22400f960274b2de6f391a2f8224cdea34a65"
+  },
+  "Exp30/README.md": {
+    "size": 571,
+    "time": 1790405394,
+    "hash": "51de9e65c6a291361632a3f91d67b29de6320e7c"
+  },
+  "Exp30/半导体禁带宽度和载流子迁移率测量(25级 justice).pdf": {
+    "size": 3470518,
+    "time": 1790405394,
+    "hash": "51de9e65c6a291361632a3f91d67b29de6320e7c"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713079985,
+    "hash": "470670401abb4d3cb40ba72feaafe3ee7440b593"
+  },
+  "README.md": {
+    "size": 13846,
+    "time": 1791961105,
+    "hash": "ca264e790132bbe534df1c5d64468bb6f7f38739"
+  },
+  "archived/Infrared_Wave（22级 MaxwellJay）/Infrared_Wave.ipynb": {
+    "size": 146209,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "archived/Infrared_Wave（22级 MaxwellJay）/光电二极管伏安特性.png": {
+    "size": 28185,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "archived/Infrared_Wave（22级 MaxwellJay）/发光二极管伏安特性与输出特性.png": {
+    "size": 42427,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "archived/Infrared_Wave（22级 MaxwellJay）/红外发光二极管角度特性.png": {
+    "size": 38118,
+    "time": 1774087805,
+    "hash": "020ede5e1d2992b407e445fc7c5acf719a1ee042"
+  },
+  "archived/光刻工艺（21级 Oliver Wu）.pdf": {
+    "size": 5953651,
+    "time": 1710918762,
+    "hash": "ef3bd73002a6d8d84f661c1108e7c1580da835da"
+  },
+  "readme.toml": {
+    "size": 13854,
+    "time": 1790405394,
+    "hash": "51de9e65c6a291361632a3f91d67b29de6320e7c"
+  },
+  "绪论作业（24级 Fun10165）.pdf": {
+    "size": 4681472,
+    "time": 1775225156,
+    "hash": "d378a5cb1c28148b8471916cac37ce5984cb7625"
+  }
+}
