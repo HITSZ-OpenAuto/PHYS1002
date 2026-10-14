@@ -1,9 +1,5 @@
 # PHYS1002 - 大学物理实验
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![每次实验得分的加权和100%](https://img.shields.io/badge/每次实验得分的加权和-100%25-wheat)
 
 > [!NOTE]
 > 自 `2024.03.20` 开始，由于大物实验每年安排的不确定性，原 **大学物理实验 IA (PHYS1002A)** 与 **大学物理实验 IB (PHYS1002B)** 仓库现采用统一的命名方式，合并成 **大学物理实验 (PHYS1002)** 页面。
