@@ -17,4 +17,4 @@ jobs:
       trigger_page_build: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
 
     secrets:
-      PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      HOA_AUTOMATION_APP_PRIVATE_KEY: ${{ secrets.HOA_AUTOMATION_APP_PRIVATE_KEY }}
